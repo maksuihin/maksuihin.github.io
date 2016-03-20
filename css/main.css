@@ -10,9 +10,6 @@ nav ul, footer ul {
     font-weight: bold;
 
 }
-nav ul li em {
-     font-size: 3em
-}
 footer ul li {
     display: inline;
     margin-right: 20px;
