@@ -1,2 +1,3 @@
 name: MAK, Sui-hin
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
