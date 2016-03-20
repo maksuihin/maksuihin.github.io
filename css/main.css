@@ -25,13 +25,13 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+h3 { //work titles
+    font-size: 1.5em;
+    color: #333;
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
-}
-p1 { //work titles
-    font-size: 1.5em;
     color: #333;
 }
 footer {
