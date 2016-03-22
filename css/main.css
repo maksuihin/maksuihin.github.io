@@ -50,3 +50,6 @@ works u1 li em a {
     font-size: 1.5em;
     color: #333;
 }
+works u1 li em {
+    font-size: 1.5em;
+}
