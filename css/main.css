@@ -46,7 +46,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-works u1 li em {
+works u1 li em a {
     font-size: 1.5em;
     color: #333;
 }
